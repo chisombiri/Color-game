@@ -1,0 +1,18 @@
+created content with html before styling, js added at the end
+line height- space between letter
+# -- to call id
+font weight- boldness
+. -- class
+math.random
+math.floor -- nearest whole digit
+math.floor(math.random()*255)
+
+
+Game Features:
+Colors are random colors.
+function: to generate random colors; select the random color the user wants
+	  each square takes a color
+function: message displayed if wrong, shows "Try Again" and the answer picked matches the bg color
+function: if selected color is right, check if same and display message : "CORRECT!" and the other
+	  squares change to the slected right color
+function: "NEW COLOR", when clicked generates new random color
